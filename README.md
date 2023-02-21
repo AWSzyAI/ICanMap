@@ -12,4 +12,4 @@ As Szy my self, I think I have the responsability to master some skills. My purp
   * [南京大学 计算机科学与技术系 计算机系统基础 课程实验 2022](https://nju-projectn.github.io/ics-pa-gitbook/ics2022/index.html)
   
 * [折腾]()
- * [Mac远程Windows]()
+  * [Mac远程Windows]()
