@@ -1,2 +1,2 @@
 * gitbook
-* [.github.io](awszyai.github.io)
+* [.github.io](https://awszyai.github.io/)
